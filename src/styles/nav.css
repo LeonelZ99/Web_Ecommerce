@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #FFA500 !important;
+    padding: 2%;
+}
+
+.navbar a {
+    color: #FFFFFF !important;
+}
+
+.navbar-toggler-icon {
+    background-color: #FFFFFF !important;
+    border: 1px solid #FFFFFF !important;
+}
+
+.carrito {
+    margin-left: auto;
+}
